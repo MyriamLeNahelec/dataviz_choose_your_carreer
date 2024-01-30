@@ -40,5 +40,7 @@ Taper le code du département sur lequel on souhaite faire la recherche
 ## Visuels du site
 
 ![Alt text](/screenshots_app/cyc_accueil.png "accueil")
-![Alt text](/screenshots_app/cyc_result_17_option.png "44")
+
+Exemple des données pour le département 44
+![Alt text](/screenshots_app/cyc_result_44.png "44")
 
